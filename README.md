@@ -22,9 +22,8 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- The final equation turned out to be: total_bikes_shared=(0.2323×year) − (0.0589×holiday) + (0.0469×workingday) + (0.5686×temp) − (0.1549×windspeed) − (0.2882×LightRainSnow) − (0.0828×Mist) + (0.0793×Summer) + (0.1281×Winter) − (0.0384×Jul) + (0.0904×Sep) + (0.0587×Monday) + 0.0817
-- According to the equation, the factor that affecting the number of bikes shared in a day is temperature. As the temperature increases, the number of bikes shared tends to increase.
-- We can also see the fact that a day being a Monday slightly affects the number of bikes shared.
+- The factor that affecting the number of bikes shared in a day is temperature. As the temperature increases, the number of bikes shared tends to increase.
+- A day being a Monday slightly affects the number of bikes shared.
 - Factors like windspeed, Rain/Snow, Mist, etc affects the number of bikes shared negatively, i.e. increase in these variables will decrease the number of bikes shared on that day. 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
